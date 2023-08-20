@@ -68,6 +68,6 @@ In the following table, you can see the AmRoMessageBox class properties:
 <div>
     <ul dir="rtl">
         <li dir="rtl"><a href="https://www.linkedin.com/in/aliansari141/">ویرایگشر</a></li>
-        <li dir="rtl"><a href="https://github.com/AmRo045/AmRoMessageBox/">منبع اصلی</a></li>
+        <li dir="rtl"><a href="https://github.com/AmRo045/AmRoMessageBox/">سازنده</a></li>
     </ul>
 </div>
