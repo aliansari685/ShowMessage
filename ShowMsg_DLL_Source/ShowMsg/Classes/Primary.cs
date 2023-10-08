@@ -12,7 +12,7 @@ namespace ShowMsg
         }
         public enum ShowMsgIcon
         {
-            None, Warring, Error, Success
+            None, Warning, Error, Success
         }
         public enum ShowMsgResult
         {

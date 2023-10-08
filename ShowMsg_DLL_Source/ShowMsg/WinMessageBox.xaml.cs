@@ -234,7 +234,7 @@ namespace ShowMsg
                 case ShowMsgIcon.None:
                     MessageBoxIcon.Visibility = Visibility.Collapsed;
                     break;
-                case ShowMsgIcon.Warring:
+                case ShowMsgIcon.Warning:
                     MessageBoxIcon.Visibility = Visibility.Visible;
                     MessageBoxIcon.Kind = PackIconKind.Alert;
                     break;

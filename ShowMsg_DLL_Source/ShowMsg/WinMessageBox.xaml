@@ -98,7 +98,7 @@
                                  Kind="CheckCircle"
                                  Width="45"
                                  Height="45"
-                                 Margin="5 3"
+                                 Margin="20 3"
                                  VerticalAlignment="Top"
                                  Visibility="Visible"
                                  Foreground="{DynamicResource BaseIconColor}"/>
@@ -106,7 +106,7 @@
                     <TextBlock Name="TxtMessage"
                                Text="---------------"
                                VerticalAlignment="Center"
-                               Margin="0 0 20 0"
+                               Margin="0"
                                TextWrapping="Wrap"
                                Foreground="{DynamicResource BaseForegroundColor}"
                                FontSize="{DynamicResource BaseMessageFontSize}"
@@ -126,7 +126,8 @@
                             Style="{DynamicResource MaterialDesignFlatButton}"
                             Foreground="{DynamicResource BaseForegroundColor}"
                             FontFamily="{DynamicResource BaseFontFamily}"
-                            Content="Ok"
+                            Content="OK"
+                            IsDefault="True"
                             Visibility="Collapsed"
                             Click="BtnOk_OnClick"/>
 
